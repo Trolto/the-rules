@@ -1,2 +1,2 @@
-# the-rules
+# the rules
 you add them
